@@ -1,5 +1,6 @@
 # Hey, I'm Shravani!
-<p align="center">
+<p> <img src="./assets/velma.gif"></p>
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -8,9 +9,18 @@
      height="100px" >
 </picture>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RoyShravani&hide_border=true&show_icons=true" alt="edisonlee55's github stats">
-</p>
-<p align="center">
+<p>
 Building @ Progress Chef
+</p>
+<details>
+<summary>My few shots: Colours</summary>
+  <div class="scroll-container">
+  <img src="/assets/avocado.jpeg" alt="Avocado">
+  <img src="/assets/japiur.jpeg" alt="Jaipur">
+  <img src="/assets/durga.jpeg" alt="Durga">
+  <img src="/assets/kovalam.jpeg" alt="Kolvalam">
+</div>
+</details>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=RoyShravani&hide_border=true&show_icons=true" alt="edisonlee55's github stats">
 </p>
