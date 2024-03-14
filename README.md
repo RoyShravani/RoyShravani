@@ -13,12 +13,11 @@
 Building @ Progress Chef
 </p>
 <details>
-<summary>My few shots: Colours</summary>
+<summary>My few shots: Colours of India</summary>
   <div class="scroll-container">
-  <img src="/assets/avocado.jpeg" alt="Avocado">
-  <img src="/assets/japiur.jpeg" alt="Jaipur">
-  <img src="/assets/durga.jpeg" alt="Durga">
+  <img src="/assets/jaipur.jpeg" alt="Jaipur">
   <img src="/assets/kovalam.jpeg" alt="Kolvalam">
+  <img src="/assets/kolkata.jpeg" alt="Kolkata">
 </div>
 </details>
 <p>
